@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Outfit SemiBold";
+   src: url("fonts/Outfit SemiBold.woff") format("woff"), url("fonts/Outfit SemiBold.eot") format("embedded-opentype"), url("fonts/Outfit SemiBold.ttf") format("truetype"), url("fonts/Outfit SemiBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
